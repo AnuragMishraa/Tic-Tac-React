@@ -1,6 +1,11 @@
 # Tic-Tac-React
 A tic-tac-toe game developed on React would consist of a game board component that renders a 3x3 grid of squares, each of which is its own component. The game logic would be implemented in the parent component, which would keep track of the current player, the state of each square, and whether the game has been won or is a draw.
 
+![image](https://user-images.githubusercontent.com/64610685/218657822-15859e4b-61e7-4705-8804-809b3e6515c2.png)
+![image](https://user-images.githubusercontent.com/64610685/218658077-b9408736-83dd-41a9-93ea-ad5950834471.png)
+![View3](https://user-images.githubusercontent.com/64610685/218660242-783cbb9f-8aa2-47db-85ff-25777445bb0c.jpg)
+
+
 ## Getting started
 To play the game, you can either:
 
