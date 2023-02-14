@@ -5,14 +5,25 @@ A tic-tac-toe game developed on React would consist of a game board component th
 To play the game, you can either:
 
 Visit the deployed version at (https://anuragmishraa.github.io/Tic-Tac-React/)
+
 Clone the repository and run the game locally on your machine
-To run the game locally, you'll need to have Node.js and NPM (or Yarn) installed on your machine. Once you have those, follow these steps:
+
+To run the game locally, you'll need to have Node.js and NPM (or Yarn) installed on your machine. 
+
+
+Once you have those, follow these steps:
 
 Clone the repository to your local machine using git clone https://github.com/AnuragMishraa/Tic-Tac-React.git
+
 Change into the project directory using cd tic-tac-toe
+
 Install the dependencies using npm install or yarn install
+
 Start the game using npm start or yarn start
+
 Open your web browser and navigate to http://localhost:3000
+
+
 
 ## Available Scripts
 
@@ -51,10 +62,10 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-### How to play
+## How to play
 To play the game, simply click on any empty square to mark it with your symbol (either "X" or "O"). The game will automatically switch to the other player's turn, and continue until one player wins, or the game is a draw.
 
-Features
+### `Features`
 This game was built using React, and includes the following features:
 
 A simple, intuitive user interface
@@ -64,5 +75,5 @@ A "new game" button that resets the game and starts a new round
 Contributing
 If you'd like to contribute to the development of this game, feel free to fork the repository and submit a pull request with your changes. Please ensure that your code is well-documented and passes all tests before submitting.
 
-License
+### `License`
 This game is licensed under the MIT license. You are free to use, copy, and modify it as you see fit. Please see the LICENSE file for more information.
